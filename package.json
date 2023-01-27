@@ -1,0 +1,27 @@
+{
+  "name": "yagnesh-js",
+  "version": "0.0.1",
+  "description": "Javascript+react training ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audiakshay/React-BufferZero.git"
+  },
+  "keywords": [
+    "React",
+    "Javascript",
+    "es6"
+  ],
+  "author": "Akshay S <akshayclash8792@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Audiakshay/React-BufferZero/issues"
+  },
+  "homepage": "https://github.com/Audiakshay/React-BufferZero#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0"
+  }
+}
